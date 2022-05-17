@@ -14,8 +14,10 @@ This is a Sudoki Solver with a tkinter GUI.
 
 ## Example:
 ### input
-
+![](https://github.com/hcstevenchang/Sudoku-Solver/blob/master/images/before.png)
 ### Output
+![](https://github.com/hcstevenchang/Sudoku-Solver/blob/master/images/after.png)
+#### On CMD
 ```text
   2 1 7  |  8 6 3  |  9 4 5
   6 4 3  |  1 5 9  |  2 8 7
