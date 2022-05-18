@@ -10,7 +10,7 @@ This is a Sudoki Solver with a tkinter GUI.
 ## Description
 
 * Sudoki Solver using Backtracking algorithm.
-* Created an GUI with tkinter.
+* Created a GUI with tkinter.
 
 ## Example:
 ### input
